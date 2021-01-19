@@ -6,6 +6,8 @@ the repo name is indefinitely unholy yet changable
 
 ```$ . /venv/bin/activate```
 
+```$ (venv) python3 -m install flask``` 
+
 ```$ export FLASK_APP=hello.py```
 
 ```$ flask run```
