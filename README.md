@@ -4,11 +4,11 @@ the repo name is indefinitely unholy yet changable
 ## Installation (Linux, requires python3 and pip)
 ```$ python3 -m venv venv```
 
-```$ . /venv/bin/activate```
+```$ source venv/bin/activate```
 
 ```$ (venv) python3 -m install flask``` 
 
-```$ export FLASK_APP=hello.py```
+```$ export FLASK_APP=app.py```
 
 ```$ flask run```
 
