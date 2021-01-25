@@ -1,5 +1,4 @@
-# QuarkMark
-the repo name is indefinitely unholy yet changable
+# QuantMark
 
 ## Installation (Linux, requires python3 and pip)
 ```$ python3 -m venv venv```
