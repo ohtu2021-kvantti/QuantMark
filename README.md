@@ -5,7 +5,10 @@
 ### Application links
 * Frontend:
   * Production:
-    * [WebMark](https://github.com/ohtu2021-kvantti/WebMark)
+    * [QuantMark](http://quantmark.herokuapp.com/)
+  * Development:
+    * [Code on Github](https://github.com/ohtu2021-kvantti/WebMark)
+ 
 
 ### Project progress
 * Google Sheets link coming soon!
