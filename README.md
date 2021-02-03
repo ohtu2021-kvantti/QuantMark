@@ -11,4 +11,4 @@
  
 
 ### Project progress
-* Google Sheets link coming soon!
+* [Google Sheets](https://docs.google.com/spreadsheets/d/1O0ZgvyXBT_bf2Fc9DZqellLEEhLGqmfWQaTgIbFhqnU/edit?usp=sharing)
