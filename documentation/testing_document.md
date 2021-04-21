@@ -6,6 +6,8 @@ Test are conducted with Python standard library module unittest.
 - `$ python manage.py test` (runs unit tests)
 
 ## What was tested
+
+```
 📦tests
  ┣ 📜testAlgorithmDetails.py
  ┣ 📜testCompareAlgorithms.py
@@ -16,6 +18,7 @@ Test are conducted with Python standard library module unittest.
  ┣ 📜testNewMolecule.py
  ┣ 📜testNewVersion.py
  ┗ 📜testUpdateAlgorithm.py
+```
 
  Test are written corresponding the individual views of the web application.
  
