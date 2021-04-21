@@ -7,14 +7,23 @@ Test are conducted with pytest.
 
 ## What was tested
 📦tests
+
  ┣ 📜testAlgorithmDetails.py
+ 
  ┣ 📜testCompareAlgorithms.py
+ 
  ┣ 📜testHomepage.py
+ 
  ┣ 📜testLogin.py
+ 
  ┣ 📜testMyAlgorithms.py
+ 
  ┣ 📜testNewAlgorithmType.py
+ 
  ┣ 📜testNewMolecule.py
+ 
  ┣ 📜testNewVersion.py
+ 
  ┗ 📜testUpdateAlgorithm.py
 
  Test are written corresponding the individual views of the web application.
