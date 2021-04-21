@@ -1,6 +1,6 @@
 # Testing
 
-Test are conducted with pytest. 
+Test are conducted with Python standard library module unittest. 
 
 ### Unit tests:
 - `$ python manage.py test` (runs unit tests)
@@ -26,3 +26,6 @@ Test are conducted with pytest.
 
  ## What is not tested
  The UI-functionality is not tested, but during the development Google Lighthouse reports have been generated and changes have been made accordingly. Challenges with f.ex. bad layout have been "tested" in this way.
+
+ ## Writing tests
+ Name of the test function must start with 'test'.
