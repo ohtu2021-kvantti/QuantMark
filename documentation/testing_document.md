@@ -4,6 +4,8 @@ Test are conducted with Python standard library module unittest.
 
 ### Unit tests:
 - `$ python manage.py test` (runs unit tests)
+- `$ python manage.py test -k <keyword>` (runs tests with matching pattern or substring)
+
 
 ## What was tested
 
