@@ -15,6 +15,11 @@ Highlighted on green are the selections for adding a new algorithm, molecule, or
 When adding a new algorithm, the circuit must be input in the same syntax as tequila's output. 
 ![New Algorithm](pictures/login_add_algorithm.png "Add algorithm")
 
-When creating a new molecule, the geometry must be in the form of: "<Molecule> a.x b.y c.z". Active orbitals must be listed as f.ex. "A1 1"
+When creating a new molecule, the geometry must be in the form of: "<Molecule> a.x b.y c.z". Active orbitals must be listed as f.ex. "A1 1 <new line> B1 0"
+![New Molecule](pictures/login_molecule.png "Adding a new molecule")
 
+After a new algorithm has been written, and a new molecule has been created, the user can measure the metrics of a certain version (selectable from a dropdown menu, highlighted in green) on a particular molecule (selected from a dropdown, highlighted in pink).
+![Run!](pictures/login_benchmark.png "Running the benchmark")
 
+The page is automatically refreshed after the benchmarking is complete.
+All tasks in queue are listed below the run button:
